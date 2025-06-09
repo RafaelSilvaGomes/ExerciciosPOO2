@@ -6,7 +6,7 @@ def main():
         valorH = float(input("Valor por hora: "))
         horas = float(input("Horas trabalhadas: "))
         
-        func1 = Pagamento(nome, valorH, horas)
+        func1 = Salario(nome, valorH, horas)
         
         salario = func1.calcularPagamento()
         
