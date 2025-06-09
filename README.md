@@ -39,3 +39,15 @@ Este repositório contém as atividades práticas desenvolvidas em Python, aplic
 1. Clone este repositório:
    ```bash
    git clone https://github.com/RafaelSilvaGomes/ExerciciosPOO2.git
+2. Abra a pasta do projeto no VSCode
+
+3. Execute o arquivo desejado:
+
+4. Abra o terminal integrado (Ctrl + `)
+
+5. Rode o comando:
+python caminho/do/arquivo.py
+
+Exemplo:
+  ```bash
+  python ex2.1-terreno/main.py
